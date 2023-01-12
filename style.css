@@ -1,0 +1,11 @@
+span#cite{
+    font-style: oblique;
+}
+
+span#q{
+    text-decoration: line-through;
+}
+
+span#dfn{
+    font-style: oblique;
+}
